@@ -1,3 +1,10 @@
+# Res
+### Debian Proxmox Install
+![Docs Terraform](https://www.apalrd.net/posts/2022/pve_bullseye/)
+### References
+![Youtube](https://www.youtube.com/watch?v=dvyeoDBUtsU)
+![Docs Terraform](https://registry.terraform.io/providers/Telmate/proxmox/latest/docs/resources/vm_qemu).
+
 # PVE VDI Client
 
 This project's focus is to create a simple VDI client intended for mass deployment. This VDI client connects directly to Proxmox VE and allows users to connect (via Spice) to any VMs they have permission to access.
